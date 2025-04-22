@@ -27,6 +27,10 @@ This ensures smooth integration and usability.
 - [SimpleStorage](./solidity/simple-storage/) - A Simple storage smart contract.
 - [Token](./solidity/token/) - Modular Contracts.
 
+### Toy
+
+- [Add](./toy/) - A simple Toy example.
+
 ## Credits
 
 Heavily inspired by https://github.com/amp-buildpacks/samples
